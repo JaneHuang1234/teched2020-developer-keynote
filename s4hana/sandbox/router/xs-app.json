@@ -6,8 +6,8 @@
       "authenticationType": "none",
       "csrfProtection": false,
       "source": "^(.*)$",
-      "destination": "apihub_sandbox",
-      "target": "s4hanacloud/$1"
+      "destination": "S4HANACloud",
+      "target": "$1"
     }
   ]
 }
