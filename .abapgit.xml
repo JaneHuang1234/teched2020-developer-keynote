@@ -18,6 +18,7 @@
     <item>/README.md</item>
     <item>/package.json</item>
     <item>/.travis.yml</item>
+    <item>/abap/src/</item>
    </IGNORE>
   </DATA>
  </asx:values>
